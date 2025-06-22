@@ -1,1 +1,6 @@
 Рецепт пиццы:
+1. Make the dough  
+2. Prepare the filling  
+3. Shape the pizza  
+4. Add the toppings  
+5. Bake it
